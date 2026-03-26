@@ -1,5 +1,6 @@
-console.log("Hello, Brasil!");
-console.log("Hello, Brasil!");
-console.log("Hello, Brasil!");
-console.log("Hello, Brasil!");
-console.log("Hello, Brasil!");
+function greet() {
+	for (let i = 0; i < 5; i++) {
+		console.log("Hello, Brasil!");
+	}
+}
+greet();
