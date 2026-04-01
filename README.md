@@ -11,11 +11,9 @@ Instruções Gerais
 Critérios de Avaliação – Atividade 1
 (Total: 3,0 pontos)
 
-- Clareza na apresentação 0,6
-- Comentários no código 0,6
-- Tema coerente com os elementos 0,6
-- Organização semântica interna 0,6
-- Criatividade 0,6
+- Tema coerente com os elementos 1.0
+- Organização semântica interna 1.0
+- Criatividade 1.0
 
 **INSTRUÇÕES PARA CLONAGEM DO REPOSITÓRIO**
 
